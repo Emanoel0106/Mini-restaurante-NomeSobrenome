@@ -1,1 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+ 
+  <title>Cardápio - Restaurante do Emanoel</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🍴 Restaurante do Emanoel</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="cardapio.html" class="active">Cardápio</a>
+      <a href="contato.html">Contato</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Nosso Cardápio</h2>
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Prato</th>
+    <th>Descrição</th>
+    <th>Preço</th>
+  </tr>
+  <tr>
+    <td>Macarrão à Bolonhesa</td>
+    <td>Molho artesanal, carne moída e queijo parmesão.</td>
+    <td>R$ 32,00</td>
+  </tr>
+  <tr>
+    <td>Picanha na Chapa</td>
+    <td>Acompanha arroz, feijão tropeiro e batata frita.</td>
+    <td>R$ 65,00</td>
+  </tr>
+  <tr>
+    <td>Cheesecake de Morango</td>
+    <td>Sobremesa irresistível com calda de frutas vermelhas.</td>
+    <td>R$ 18,00 </td>
+  </tr>
+  <tr>
+    <td>Pudim</td>
+    <td>Sobremesa irresistível com variedades de sabores.</td>
+    <td>R$ 22,00</td>
+  </tr>
+  <tr>
+    <td>Delicia de pave</td>
+    <td>Sobremesa irresistível com caldas.</td>
+    <td>R$ 20,00</td>
+  </tr>
+</table>
+        <h3> Pudim</h3>
+        <img src="img/pudim-de-leite-condensado.jpg" width="300" height="200" alt="">
+        <p>Sobremesa irresistível com variedades de sabores.</p>
+        <span>R$ 22,00</span>
+      </div>
+        <h3> Delicia de pave</h3>
+        <img src="img/images.jpeg" alt="">
+        <p>Sobremesa irresistível com caldas.</p>
+        <span>R$ 20,00</span>
 
+        <h2>Sugestões do Chef</h2>
+ <ol>
+  <li>Delicia de pave</li>
+  <li>Pudim</li>
+  <li>Cheesecake de Morango</li>
+</ol>
+  </main>
+
+</body>
+</html>
